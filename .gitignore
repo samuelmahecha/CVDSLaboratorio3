@@ -1,6 +1,5 @@
-*.DS_STORE
-target
-.classpath
-.idea
-.settings
-.vscode
+# Carpeta de compilación de Maven
+/target/
+
+# Carpeta de configuración de Visual Studio Code
+.vscode/
